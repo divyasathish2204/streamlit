@@ -1,0 +1,9 @@
+streamlit
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+scikit-learn
+memory_Profiler
